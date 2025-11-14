@@ -1,0 +1,7 @@
+{
+  "name": "GeoScout & WA Checker",
+  "description": "An intelligent tool to scrape business data from Google Maps and check for WhatsApp accounts. Toggle between fast, location-aware scraping and a deep-dive mode for complex queries.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
